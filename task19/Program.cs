@@ -1,4 +1,5 @@
-﻿Console.WriteLine ("Введите пятизначное число: ");
+﻿// Определение палиндрома среди пятизначных чисел
+Console.WriteLine ("Введите пятизначное число: ");
 int number = Convert.ToInt32 (Console.ReadLine ());
 if ((number < 10000) & (number > 99999))
     {
