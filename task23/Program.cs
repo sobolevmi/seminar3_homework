@@ -19,7 +19,6 @@ void stepenPlus (int a)
 
 void stepenMinus (int a)
 {
-    int i = 1;
     while (i > number)
         {   
             int num = Convert.ToInt32 (Math.Pow (i, 3));
