@@ -1,4 +1,5 @@
-﻿Console.WriteLine ("Введите координаты первой точки по оси X: ");
+﻿// Нахождение расстояния между двумя точками в 3D-пространстве
+Console.WriteLine ("Введите координаты первой точки по оси X: ");
 int x1 = Convert.ToInt32 (Console.ReadLine ());
 Console.WriteLine ("Введите координаты первой точки по оси Y: ");
 int y1 = Convert.ToInt32 (Console.ReadLine ());
